@@ -1,0 +1,99 @@
+Khoa học dữ liệu
+Giới thiệu
+Chương trình đào tạo cử nhân Khoa học dữ liệu giúp người học nắm vững kiến thức cơ bản và chuyên sâu về dữ liệu, các công cụ và công nghệ liên quan; có khả năng tổ chức thực hiện nhiệm vụ của một chuyên viên hoặc quản lý trong lĩnh vực khoa học dữ liệu bao gồm: lên kế hoạch, thu thập, lưu trữ, đánh giá, tiền xử lý; lựa chọn các mô hình, công cụ phân tích dữ liệu; phân tích và áp dụng kết quả để giải quyết các vấn đề trong các lĩnh vực kinh doanh, quản lý, tài chính, marketing, v.v. Bên cạnh đó, sinh viên luôn được trau dồi kiến thức chuyên môn, nâng cao kĩ năng nghề nghiệp, cập nhật các quy chuẩn, công nghệ mới; đồng thời được tham gia vào mạng lưới học thuật, tuyển dụng có liên kết chặt chẽ với nhiều tổ chức, doanh nghiệp liên quan nhằm bám sát thực tiễn, tăng khả năng cạnh tranh, hội nhập và đáp ứng tốt nhất nhu cầu của xã hội.
+Mã đăng ký xét tuyển: 7460108
+Xem video giới thiệu chương trình TẠI ĐÂY
+Là những chương trình đào tạo được thiết kế dựa trên TOP 200 Đại học hàng đầu thế giới; tham vấn bởi các chuyên gia hiệp hội nghề nghiệp quốc tế và được rà soát chất lượng định kỳ 2 – 5 năm/lần. 
+Chuẩn đầu ra
+1. Kiến thức 
+Hiểu và áp dụng kiến thức về toán và thống kê để lý giải bản chất các quan hệ kinh tế xã hội
+Hiểu lý thuyết các mô hình ứng dụng khoa học dữ liệu trong tổ chức
+Phân tích và áp dụng các phương pháp, quy trình công nghệ để xây dựng các ứng dụng khoa học dữ liệu vào thực tế quản lý và kinh doanh của tổ chức
+Hiểu các phương pháp phân tích dữ liệu tiên tiến thích ứng với sự phát triển của ngành và lĩnh vực ứng dụng
+Hiểu căn bản về lý luận kinh tế, chính trị, xã hội và pháp luật trong học tập, nghiên cứu và giải quyết các vấn đề thực tiễn Việt Nam 
+Hiểu cơ sở hạ tầng công nghệ thông tin làm nền tảng cho việc phát triển ứng dụng khoa học dữ liệu trong tổ chức
+Hiểu, phân tích và đánh giá các lý thuyết chuyên sâu về lên kế hoạch, thu thập, xử lý, lưu trữ, lựa chọn mô hình dữ liệu và đánh giá các ứng dụng khoa học dữ liệu trong tổ chức 
+Hiểu căn bản về môi trường kinh tế và hệ thống quản lý trong tổ chức 
+2. Kỹ năng 
+Thuần thục các công cụ và kỹ thuật phân tích dữ liệu vào giải quyết các vấn đề trong kinh doanh và quản lý
+Thuần thục việc sử dụng các công cụ và kỹ thuật phân tích dữ liệu vào việc khai thác, phân tích dữ liệu doanh nghiệp 
+Thuần thục về việc lên kế hoạch, phân tích, thiết kế, thu thập, xử lý, lưu trữ, lên mô hình dữ liệu và đánh giá sản phẩm các ứng dụng khoa học dữ liệu 
+Khả năng thích ứng và biết cách vận dụng linh hoạt các công cụ phân tích dữ liệu
+Thuần thục kỹ năng làm việc nhóm
+Thuần thục khả năng giao tiếp, làm việc với các chuyên gia nước ngoài, và tham gia xây dựng và phát triển các công cụ khoa học dữ liệu cho các công ty trong và ngoài nước
+Thiết lập năng lực ngoại ngữ theo qui định: chứng chỉ TOEIC 500 trở lên hoặc tương đương (tiếng Anh) hoặc trình độ DELF B1 (tiếng Pháp), đối với sinh viên phân khoa tiếng Pháp đạt trình độ DELF B2 (LO11)
+3. Mức độ tự chủ và trách nhiệm  
+Khả năng ứng xử có trách nhiệm với bản thân, công việc, nghề nghiệp và xã hội; kỷ luật, hợp tác, sáng tạo và chuyên nghiệp trong công việc
+Khả năng ứng xử và trách nhiệm trong làm việc nhóm và hướng dẫn, giám sát những người khác trong nhóm thực hiện nhiệm vụ được giao
+Coi trọng giá trị và có tư cách đạo đức tốt trong công việc và cuộc sống
+Khả năng tiếp thu được xu hướng công nghệ và đổi mới trong tương lai
+Khả năng lập kế hoạch, điều phối, quản lý các nguồn lực, đánh giá và cải thiện hiệu quả các hoạt động trong lãnh vực Khoa học dữ liệu
+Ngoài những chuẩn đầu ra trên, sinh viên tốt nghiệp đạt các chuẩn đầu ra về năng lực ngoại ngữ, tin học, giáo dục thể chất, giáo dục quốc phòng như sau:
+Có năng lực ngoại ngữ bậc 3/6 Khung năng lực ngoại ngữ của Việt Nam, đạt TOEIC 500
+Đạt chứng chỉ tin học IC3 (Internet and Computing Core Certification)
+Đạt chứng chỉ Giáo dục thể chất
+Đạt chứng chỉ Giáo dục quốc phòng
+Cơ hội việc làm
+1. Doanh nghiệp trong và ngoài nước:  Chuyên viên/Nhân viên/Chuyên gia:
+ Xử lý dữ liệu
+ Phân tích dữ liệu
+ Machine Learning
+ Big data
+ Chuyên viên thu thập, tiền xử lý và quản lý dữ liệu lớn; chuyên gia tính toán; chuyên viên thiết kế, biểu diễn trực quan dữ liệu; chuyên viên quản lý các dự án khoa học dữ liệu
+2. Doanh nghiệp trong và ngoài nước Chuyên viên/Nhân viên
+ Ứng dụng khoa học dữ liệu
+ Quản lý dữ liệu Chuyên viên nghiên cứu, ứng dụng các giải pháp khoa học dữ liệu trong kinh doanh và quản lý
+3.Trường cao đẳng, đại học Giảng viên Phụ trách các môn học về chuyên ngành khoa học dữ liệu thuộc ngành Khoa học máy tính
+Cấu trúc chương trình
+Kiến thức giáo dục đại cương: 50 tín chỉ
+Triết học Mác-Lênin
+Kinh tế chính trị Mác-Lênin
+Chủ nghĩa xã hội khoa học
+Lịch sử Đảng cộng sản Việt Nam
+Tư tưởng Hồ Chí Minh
+Tiếng Anh tổng quát
+Tiếng Anh chuyên ngành 1 (CTD)
+Tiếng Anh chuyên ngành 2 (CTD)
+Nhập môn tâm lý học
+Phát triển bền vững
+Tư duy thiết kế
+Kinh tế vi mô 
+Kinh tế vĩ mô 
+Toán dành cho kinh tế và quản trị
+Thống kê ứng dụng trong kinh tế và kinh doanh
+Luật kinh doanh
+Nguyên lý kế toán
+Kỹ năng mềm
+Khởi nghiệp kinh doanh
+Khoa học dữ liệu
+Kiến thức giáo dục chuyên nghiệp: 63 tín chỉ
+Kiến thức Cơ sở ngành
+Thống kê toán 
+Kinh tế lượng
+Toán tài chính
+Toán dùng trong Tin học
+Cơ sở công nghệ thông tin
+Cơ sở lập trình
+Cơ sở dữ liệu
+Cấu trúc dữ liệu và giải thuật
+Phân tích nghiệp vụ
+Hệ hỗ trợ quản trị thông minh
+Kiến thức chuyên ngành
+Lập trình phân tích dữ liệu
+Xử lý ngôn ngữ tự nhiên
+Trí tuệ nhân tạo
+Máy học
+Khai phá dữ liệu
+Biểu diễn trực quan dữ liệu
+Tính toán hiệu suất cao
+Kiến thức chuyên ngành tự chọn
+Tài chính doanh nghiệp
+Marketing căn bản
+Big data và ứng dụng
+Hành vi người tiêu dùng
+Quản trị quan hệ khách hàng
+Công nghệ và đổi mới
+Quản trị chuỗi cung ứng toàn cầu
+Marketing kỹ thuật số
+Thực tập và tốt nghiệp: 10 tín chỉ
+Tổng số tín chỉ: 123 tín chỉ
